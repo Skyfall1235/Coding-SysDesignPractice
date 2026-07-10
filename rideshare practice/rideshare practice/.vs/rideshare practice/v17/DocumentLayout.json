@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\PrivateCode\\Practice\\rideshare practice\\rideshare practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E503A5BB-D41A-4C6E-B8BD-D21A75DEAD4E}|rideshare practice.csproj|h:\\privatecode\\practice\\rideshare practice\\rideshare practice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E503A5BB-D41A-4C6E-B8BD-D21A75DEAD4E}|rideshare practice.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E503A5BB-D41A-4C6E-B8BD-D21A75DEAD4E}|rideshare practice.csproj|h:\\privatecode\\practice\\rideshare practice\\rideshare practice\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E503A5BB-D41A-4C6E-B8BD-D21A75DEAD4E}|rideshare practice.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "H:\\PrivateCode\\Practice\\rideshare practice\\rideshare practice\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbContext.cs",
+              "ToolTip": "H:\\PrivateCode\\Practice\\rideshare practice\\rideshare practice\\Models\\DbContext.cs",
+              "RelativeToolTip": "Models\\DbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T21:40:10.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\PrivateCode\\Practice\\rideshare practice\\rideshare practice\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "H:\\PrivateCode\\Practice\\rideshare practice\\rideshare practice\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T21:13:40.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

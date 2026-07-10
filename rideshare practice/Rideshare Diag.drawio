@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2026-07-10T05:48:02.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.6 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="NIlmpAM2xAFXv_zPJ8I_" version="24.4.6" type="device">
+  <diagram name="Page-1" id="Dl4dxHrXRsGVLLybfswM">
+    <mxGraphModel dx="757" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ymW91_EXPkWK3-z9jGNY-1" target="ymW91_EXPkWK3-z9jGNY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="570" />
+              <mxPoint x="190" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-25" value="FK to driver,&amp;nbsp;&lt;div&gt;for driver this is 1to1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ymW91_EXPkWK3-z9jGNY-24">
+          <mxGeometry x="0.566" relative="1" as="geometry">
+            <mxPoint y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-1" value="Ride data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymW91_EXPkWK3-z9jGNY-3" target="ymW91_EXPkWK3-z9jGNY-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-11" value="Payment should treat all&amp;nbsp;&lt;div&gt;users as users for tracking&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ymW91_EXPkWK3-z9jGNY-10">
+          <mxGeometry x="0.039" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymW91_EXPkWK3-z9jGNY-3" target="ymW91_EXPkWK3-z9jGNY-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-35" value="FK to ride instance to track&amp;nbsp;&lt;div&gt;driver and passengers&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ymW91_EXPkWK3-z9jGNY-34">
+          <mxGeometry x="-0.013" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-3" value="Payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ymW91_EXPkWK3-z9jGNY-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="430" as="sourcePoint" />
+            <mxPoint x="180" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-9" value="1to1 Foreign Key to refer&amp;nbsp;&lt;div&gt;to for basic info&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ymW91_EXPkWK3-z9jGNY-8">
+          <mxGeometry x="0.3909" y="2" relative="1" as="geometry">
+            <mxPoint x="2" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-4" value="Drivers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymW91_EXPkWK3-z9jGNY-12" target="ymW91_EXPkWK3-z9jGNY-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-31" value="FK to ride data,&amp;nbsp;&lt;div&gt;this is a many to 1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ymW91_EXPkWK3-z9jGNY-30">
+          <mxGeometry x="-0.0098" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-12" value="(new)&lt;div&gt;Ride Instance&lt;br&gt;(composite primary key of passenger ID + Ride data)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-13" value="Premise&lt;br&gt;Start with 4 tables, rides, riders(passengers) drivers, and payment. show how the data relates to each other and show what needs to be connected and how" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-20" value="All Users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ymW91_EXPkWK3-z9jGNY-12" target="ymW91_EXPkWK3-z9jGNY-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="500" />
+              <mxPoint x="380" y="420" />
+              <mxPoint x="320" y="420" />
+              <mxPoint x="320" y="320" />
+              <mxPoint x="249" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymW91_EXPkWK3-z9jGNY-28" value="FK to passenger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ymW91_EXPkWK3-z9jGNY-27">
+          <mxGeometry x="0.2753" relative="1" as="geometry">
+            <mxPoint y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
